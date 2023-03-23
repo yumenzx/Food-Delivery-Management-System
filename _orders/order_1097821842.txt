@@ -1,0 +1,10 @@
+	Order 1097821842
+
+Client ID: 2999516
+Date: Tue May 10 17:26:18 EEST 2022
+
+Product List:
+Broiled Shrimp Appetizer .......... 82
+Poached Sockeye Salmon with Mustard Herb Sauce .......... 99
+
+Total: 181
